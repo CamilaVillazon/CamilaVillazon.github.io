@@ -1,0 +1,27 @@
+---
+title: "Camila Villazon"
+image: "../foto_cami.jpeg"
+links:
+  - label: GitHub
+    url: "https://github.com/CamilaVillazon"
+  - label: Email
+    url: "mailto: camilav@lcg.unam.mx"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Camila Villazon is an undergrad in Genomic Science. She is currently working at the Genomica Evoulitiva laboratory at CCG research center.
+
+## Education
+
+**National Autonomous University of Mexico** | Cuernavaca, MX
+
+B.S Genomic Science | August 2022 - May 2026
+
+
+## Experience
+
+**Salamander Microbiom** | Intern | February 2022 - Present
+
